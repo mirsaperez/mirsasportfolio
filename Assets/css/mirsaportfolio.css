@@ -146,7 +146,7 @@ p {
 .portfolio {
     margin-bottom: 20px;
     padding: 50px;
-    height: 1500px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #ffffff;
     color: #000000;
@@ -166,7 +166,7 @@ p {
 }
 
 .portfolio img {
-    max-height: 1000px;
+    max-height: 300px;
 }
 
 .contact img {
@@ -199,3 +199,7 @@ footer h2 {
     font-size: 20px;
 }
 
+.project-large 
+{
+    max-width: 1800px;
+}
